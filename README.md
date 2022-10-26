@@ -1,4 +1,7 @@
 # AWS-CICD-PIPELINE-WITH-TERRAFORM
+<p align="center">
+  <img src="https://github.com/awsactivators/AWS-CICD-PIPELINE-WITH-TERRAFORM/blob/master/design.png" width="350" title="design">
+</p>
 
 https://github.com/awsactivators/AWS-CICD-PIPELINE-WITH-TERRAFORM/blob/master/design.png?raw=true
 
