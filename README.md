@@ -1,6 +1,6 @@
 # AWS-CICD-PIPELINE-WITH-TERRAFORM
 
-https://lucid.app/lucidchart/51bd8deb-6fd3-4ad6-a4d8-cfeca4abb37e/edit?viewport_loc=26%2C-155%2C1707%2C768%2C0_0&invitationId=inv_e6dc1d16-f19c-4b59-a43d-e7cecfccbbf3
+https://github.com/awsactivators/AWS-CICD-PIPELINE-WITH-TERRAFORM/blob/master/Architecture design.png?raw=true
 
 This is a DevOps Engineer Project on designing and building infrastructure and pipeline to deploy a simple
 Hello World API app on AWS using AWS native tools.
