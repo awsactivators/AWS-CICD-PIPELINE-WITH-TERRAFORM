@@ -1,6 +1,6 @@
 # AWS-CICD-PIPELINE-WITH-TERRAFORM
 <p align="center">
-  <img src="https://github.com/awsactivators/AWS-CICD-PIPELINE-WITH-TERRAFORM/blob/master/design.png" width="650" title="design">
+  <img src="https://github.com/awsactivators/AWS-CICD-PIPELINE-WITH-TERRAFORM/blob/master/design.png" width="750" title="design">
 </p>
 
 This is a DevOps Engineer Project on designing and building infrastructure and pipeline to deploy a simple
